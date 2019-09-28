@@ -1,7 +1,7 @@
 # GTH-London-OCA
-Project submission for the `Global Travel Hackathon in London, by OCA`.
+Project submission for the `Global Travel Hackathon in London, by Team OCA`.
 
-**OCA Stands for Obessive, Compulsing Assistant. It is a voice assistant application aimed to help users with Mental health issues while travelling.**
+**Welcome to LoveJoy. It is a voice assistant application aimed to help users with Mental health issues while travelling.**
 
 ![Add a screenshot from your project. For example the main website page.](https://raw.githubusercontent.com/Global-Travel-Hackathon/GTH-Location-TeamName/master/screenshots/Global-Travel-Hackathon-image.png)
 
