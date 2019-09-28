@@ -1,4 +1,4 @@
-# GTH-London-OCA
+# LoveJoy!
 Project submission for the `Global Travel Hackathon in London, by Team OCA`.
 
 **Welcome to LoveJoy. It is a voice assistant application aimed to help users with Mental health issues while travelling.**
