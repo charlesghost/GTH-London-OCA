@@ -3,11 +3,9 @@ Project submission for the `Global Travel Hackathon in London, by Team OCA`.
 
 **Welcome to LoveJoy. It is a voice assistant application aimed to help users with Mental health issues while travelling.**
 
-![](screenshots/IMG_3933.PNG)<img src="screenshots/IMG_3933.PNG"  width="400" height="600">
-
-
-![](screenshots/IMG_3934.PNG=100x20)
-![](screenshots/IMG_3935.PNG=100x20)
+<img src="screenshots/IMG_3933.PNG"  width="400" height="600">
+<img src="screenshots/IMG_3934.PNG"  width="400" height="600">
+<img src="screenshots/IMG_3935.PNG"  width="400" height="600">
 
 ## :books: Description
 
