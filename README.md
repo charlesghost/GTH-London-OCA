@@ -3,7 +3,9 @@ Project submission for the `Global Travel Hackathon in London, by Team OCA`.
 
 **Welcome to LoveJoy. It is a voice assistant application aimed to help users with Mental health issues while travelling.**
 
-![Add a screenshot from your project. For example the main website page.](https://raw.githubusercontent.com/Global-Travel-Hackathon/GTH-Location-TeamName/master/screenshots/Global-Travel-Hackathon-image.png)
+![Add a screenshot from your project. For example the main website page.](https://raw.githubusercontent.com/charlesghost/GTH-Location-OCA/master/screenshots/IMG_3933.png)
+![Add a screenshot from your project. For example the main website page.](https://raw.githubusercontent.com/charlesghost/GTH-Location-OCA/master/screenshots/IMG_3934.png)
+![Add a screenshot from your project. For example the main website page.](https://raw.githubusercontent.com/charlesghost/GTH-Location-OCA/master/screenshots/IMG_3935.png)
 
 ## :books: Description
 
@@ -11,7 +13,7 @@ Write a short abstract of the project. Don't forget to include:
 
 * Dealing with the accessability topic of the hackathon
 * We coded the application on Visual Studio Code with React Native
-* Google Dialogueflow for creating the voice assistant features
+* Google Dialogflow for creating the voice assistant features
 * And some pictures we "borrowed" from the internet
 
 ## :hugs: Maintainers
@@ -39,6 +41,8 @@ List all the team members. For example:
 React Native
 Expo
 DialogFlow
+Native-Base
+React-Native-Dialogflow
 
 ## :warning: Licence
 

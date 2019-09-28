@@ -1,0 +1,12 @@
+export const dialogflowConfig = {
+    "type": "service_account",
+    "project_id": "oca-kiwi",
+    "private_key_id": "7512250221b9414e5c877e2c45136d0b175a802b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwrpqxKq+0+wC4\nvZ8cI6Wftwhs9g0kq04Nbo10brro4gGJKn0h/wOVrudTTfrF2txFo9mBxZrbdJiS\nFyO9k2x4UBK3l6aY2H5jZS1szBk8T9iiU1wSnv8O5JBcu6vjnZlIr8m8VC5khaCw\nusGxw6aTXQAYR7pClE6YodIiqGsy7YupEYPPV4vTi5+rDimTm8PyuueKjthFhS94\naxxecUIGyOODXSlZS/ssM+OpkV/lXv795JIXvL1TzesgaOrq8eGLcBbZJkDHGxcQ\niO/TstQtV9YYbWmm56r4IhOuphhbLBZJKmknPjpOIbvQ4/yv07LHSPC63CWuUdH3\nlxgH/UilAgMBAAECggEAG6eYyvZVfkxzdncnum3R9MffZ76zm/O8SdnuBjV2yBDo\nEKI35+RUmU9BIgboo6N4KuZUmz1k2cjMQMGidH/o0IQoCdiQ2Qe58LDbhVYE9S3C\nSNYnaTq9zYT1G668XupCHeB2ASZkBJPt7PuuabaoEhTSePpxKw6vprBdhdM6xEOr\nrU1D9cv9hKftl83SDG22CwbfBbc3pXME3nwPAz4LMX0qeBcgAd7/psnm7xmdalfy\nmY4fVT3Bg4HVs6I3QLmqd8rj5lQtpn8eyCig3tJtpCZjlznYrrGLdd9g9GvGOXHW\nhIl/4KLpWnpQJP+3BWMrR74sl+hECNYZUl8xWVjWgQKBgQDXYp19of3dK8nwtxWu\nDoHZ0L79LDxNy0+HrTFU5lauYqh11kMG9GXSCFeD2AWg4ewoBDY+EQ84vEwmxXU5\n7go0/n6qydY6/omcPrTirMz5WUAMf+QLykitW7BnbbXx9jiwWggNGliuKWOg4nof\nSm5DcvbpBcS/UNdwdXBmFiXrEQKBgQDR/6dzwgpJ91SecFEUmDk/ahWefLaH9xLP\nCYr/vNtG8AjFY/2hy5fpAhTU/M5dvEojQPAKXxhcexK7YmQSV99CTQV+mMTeIuPn\nJbIV2bN7VPczhO9jvOvNQrsSuoGUBWrKDHtxT0KiUd8hr8bzYT+vPoW7Fww4kW7y\ncR5EUup8VQKBgHdk4hqndptoz6uRQgJXZmHA1m5vXApfvnleZ29BtCE87VdM66Dq\nT5sLJsAeOpiBRDC2jP8A4+g2cRw47w+qxZu0y7CO7CONv+iN1iWlVoaOk/OZ3Wcv\nvfPjVLkw1uAG9kvDzJy+0xPQO7sOcFXyI4deLkLkALlw7cwYPbNJacGRAoGBAJMs\n9MP5S1K5h9Ge8ARaB009YTd5OkgiTklR69v+FUQrOEp3IKwDT00bi1QWdd9V9jOs\n8E6khSNTkjZH59C/SxZheqdWFCuHEmjOj3gm4lZenv25fjlNj4mE6i1fDy+ZeFVw\n2Bb6sL2oWZR3aBzsnECKthkANy1yJ+q8grTp07MdAoGAQnEKOEL+KJoE8AE9UQoj\nHe4LefXxvNBtFvtorf8ke3FMRWgBGwLjAj+UxP9pWFrHZhi9acaunjXElMA2/OMc\n7h2evfhHxTolBsXJOS5VvBSyu8RoS/BY6o/7Iv0yGjFVOmjl1ySF6nO7mAk470Ln\n780gY9l0Vxwx7OylrosJT5g=\n-----END PRIVATE KEY-----\n",
+    "client_email": "dialogflow-wtwtav@oca-kiwi.iam.gserviceaccount.com",
+    "client_id": "113761938949443394054",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-wtwtav%40oca-kiwi.iam.gserviceaccount.com"
+  };

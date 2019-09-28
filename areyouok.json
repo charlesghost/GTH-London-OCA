@@ -1,0 +1,160 @@
+{
+  "id": "cc7678cb-d71b-4145-9a4e-4c1bd08c7cd9",
+  "name": "Are you ok?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "condition": "",
+          "speech": [
+            "Are you ok?",
+            "Everything is fine",
+            "Don't worry we can make it through together",
+            "Im here for you if you need me",
+            "If i was real i'll hold you",
+            "Take a deep breath you can do it"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "47b24860-7805-4eb2-bc21-7b0d93714132",
+      "data": [
+        {
+          "text": "please help me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "29df37bb-0c12-4887-b412-153e2f37e6ef",
+      "data": [
+        {
+          "text": "why me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "ed829d8f-7158-4e30-8ce5-d1585a168dcd",
+      "data": [
+        {
+          "text": "are you there love",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "01a07bfb-3aef-48f3-a784-a758ba0791dd",
+      "data": [
+        {
+          "text": "Please where is everyone",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "8aa0c3be-f3f9-417e-9fa8-d1ab9ea0afec",
+      "data": [
+        {
+          "text": "Help me",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "17da7870-e549-44da-958e-de23151b7e44",
+      "data": [
+        {
+          "text": "im in destress",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "6d9551e5-be4f-45ba-8028-89eb14325588",
+      "data": [
+        {
+          "text": "Where is everyone",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "c050b998-5696-4f8a-8095-cbb47daf77b9",
+      "data": [
+        {
+          "text": "I'm lost",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "7c563501-fd41-498f-be51-a916c3f796cb",
+      "data": [
+        {
+          "text": "I am lonely",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "templates": []
+}
