@@ -1,7 +1,7 @@
-# GTH-Location-TeamName
-Project submission for the `Global Travel Hackathon in [Location], by [team-name] team`.
+# GTH-London-OCA
+Project submission for the `Global Travel Hackathon in London, by OCA`.
 
-**Write one sentence explaining what does your project.**
+**OCA Stands for Obessive, Compulsing Assistant. It is a voice assistant application aimed to help users with Mental health issues while travelling.**
 
 ![Add a screenshot from your project. For example the main website page.](https://raw.githubusercontent.com/Global-Travel-Hackathon/GTH-Location-TeamName/master/screenshots/Global-Travel-Hackathon-image.png)
 
@@ -9,33 +9,36 @@ Project submission for the `Global Travel Hackathon in [Location], by [team-name
 
 Write a short abstract of the project. Don't forget to include:
 
-* Hackathon topic you used (Sustainability, Accessibility or Community);
-* The development tools used to build the project;
-* SDKs used in the project;
-* APIs used in the project;
-* Any assets used in the project;
-* Any libraries used in the project;
-* Any components not created at the hackathon;
+* Dealing with the accessability topic of the hackathon
+* We coded the application on Visual Studio Code with React Native
+* Google Dialogueflow for creating the voice assistant features
+* And some pictures we "borrowed" from the internet
 
 ## :hugs: Maintainers
 
 List all the team members. For example:
-* [Jona Azizaj - jonatoni](https://github.com/jonatoni)
-
+* [Charles - charlesghost](https://github.com/charlesghost)
+* [Josh - Tane10](https://github.com/Tane10)
 
 ## :tada: Why is this so awesome?
 
-* List reasons why you think your project is awesome.
-* Two.
-* Etc.
+* We have a awesome mascot (Lovejoy!)
+* Super easy and friendly to use!
 
 ## :hammer_and_wrench: Installation
 
-Write a short description how can other people run your project.
+- Clone the repo
+- Open folder in your favourite ide of choice
+- open the terminal on your IDE and type "npm install"
+- then type "expo start"
+- Download Expo on your phone
+- Scan the QR code and you are good to go!
 
 ## :bulb: Devstack
 
-Please, explain what technologies you have used.
+React Native
+Expo
+DialogFlow
 
 ## :warning: Licence
 
